@@ -15,6 +15,8 @@ public class jantar {
         //comeu
         p1.comer(c1) ;
         p1.comer(c2);
+        p1.comer(c2);
+        p1.comer(c2);
 
         System.out.println(p1.apresentar());
     }
