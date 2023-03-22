@@ -7,7 +7,7 @@ public class Sistema {
 
 
         Compra compra1 = new Compra();
-        compra1.AdicionarItem("caneta",8.50,50);                     // ja se coloca direto pq ja foi criado no metodo
+        compra1.AdicionarItem("caneta azul",8.50,50);                     // ja se coloca direto pq ja foi criado no metodo
         compra1.AdcionarItem(new Produto("note",122),10);         // no adc item coloca produto p depoise se coloca no nomw preco qtde
 
 
