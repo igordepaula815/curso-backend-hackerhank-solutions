@@ -1,4 +1,4 @@
-package Teste_estagio_sp;
+package Exercicios;
 
 public class questao1teste {
     public static void main(String[] args) {

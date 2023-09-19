@@ -1,4 +1,4 @@
-package Teste_estagio_sp;
+package Exercicios;
 
 import java.util.Scanner;
 

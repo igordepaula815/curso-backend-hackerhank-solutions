@@ -14,7 +14,7 @@ public class Array1 {
         Notas [3] = 9.0;
         Notas [4] = 2;
 
-        System.out.println(Arrays.toString(Notas));
+        System.out.println(Arrays.toString(Notas));  // tranforma a saida numa string
 
         double total = 0 ;
         /* .leng ele automatiza o tamanho do arrays substtuindo o 3
@@ -26,6 +26,8 @@ public class Array1 {
 
         System.out.println(Notas.length);
         System.out.println(Notas[1]);
+        System.out.println(Notas[2]);
+
 
 
 

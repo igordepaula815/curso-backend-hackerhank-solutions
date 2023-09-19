@@ -1,4 +1,4 @@
-package Teste_estagio_sp.Rotation;
+package Exercicios.Fundamentos;
 
 public class Questao4Rotation {
     public static void main(String[] args) {
