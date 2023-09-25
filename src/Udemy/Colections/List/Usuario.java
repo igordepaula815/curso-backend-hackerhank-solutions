@@ -10,6 +10,10 @@ public class Usuario {
         this.nome = nome;
     }
 
+    public Usuario(  String nome , String email) {
+
+    }
+
     // esse metodo tostring quando algum usuario imprimir o nome vai sair a senteça "o nome é"
     public String toString() {
        return " O nome é " + this.nome;

@@ -11,9 +11,11 @@ public class If_Else_If {
         System.out.print("Digite a nota");
 
         double nota = entrada.nextDouble();
-// se a nota for maior que 10 ou menor que zero é invalida - traduzindo o if  simbolo || é ou
-        if ( nota > 10 || nota < 0 ) {
-            System.out.println("nota invalida");
+             // se a nota for maior que 10 ou menor que zero é invalida - traduzindo o if  simbolo || é ou
+
+        if ( nota > 10 || nota < 0 ) {               // se se começa com if e termina com else.
+            System.out.println("nota invalida");    // quando se tem mais de 2 condiçoes se usa o else if
+
         } else if (nota >= 8) {
                 System.out.println("Conceito A ");
 

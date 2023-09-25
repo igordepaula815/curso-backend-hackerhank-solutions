@@ -9,7 +9,7 @@ public class IfElse {
         // transformar uma string para um inteiro
         int numero = Integer.parseInt(valor);
 
-        if (numero % 2 == 0) {
+        if (numero % 2 == 0) {      // o % ve se o numero é par ou impar.
             System.out.println("E PAR");
         } else {
             System.out.println("E INPAR");

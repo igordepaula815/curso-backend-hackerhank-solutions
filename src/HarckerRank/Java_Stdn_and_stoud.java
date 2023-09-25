@@ -16,4 +16,8 @@ public class Java_Stdn_and_stoud {
         System.out.println("String: " + s);
         System.out.println("Double: " + d);
         System.out.println("Int: " + i);
-    }}
+
+
+
+        }
+    }

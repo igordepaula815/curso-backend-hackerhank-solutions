@@ -1,6 +1,6 @@
 package Udemy.Estruturas_de_controle.Array;
 // foreach = paracada traducao para cada elemento faz um laço de repeticao
-public class ForEach {
+public class ForEach {   // traduçao para cada elemento seria
     public static void main(String[] args) {
 
         // jeito tradicional de chamar o for

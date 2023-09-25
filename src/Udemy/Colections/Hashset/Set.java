@@ -6,7 +6,7 @@ import java.util.HashSet;
 public class Set {
     public static void main(String[] args) {
 
-        HashSet<Object> conjunto = new HashSet<>();
+        HashSet<Object> conjunto = new HashSet<>();    // nao aceita repeticao nao contagem de elementos
 
         conjunto.add(2.0) ;
         conjunto.add("tusushima") ;

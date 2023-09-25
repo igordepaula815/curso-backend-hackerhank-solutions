@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Desafio_If {
 
+    // nao se usa ; em estruturas de controle
+
     public static void main(String[] args) {
 
         Scanner entrada = new Scanner(System.in);

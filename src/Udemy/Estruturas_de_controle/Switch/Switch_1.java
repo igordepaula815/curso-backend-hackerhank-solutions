@@ -3,7 +3,7 @@ package Udemy.Estruturas_de_controle.Switch;
 public class Switch_1 {
     public static void main(String[] args) {
         // a variavel no caso e a "faixa" nesse exemplo, conforme muda, muda a busca entre as "" para pesquisar as faixas
-        String faixa = "preta" ;
+        String faixa = "roxa" ;
         // tolowercase transforma a saida tudo em minuscula as letras no que for colocado na busca
         switch ( faixa.toLowerCase()) {
             case "preta":

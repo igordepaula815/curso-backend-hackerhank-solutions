@@ -1,6 +1,6 @@
 package Udemy.Estruturas_de_controle.While;
 
-public class while_1 {
+public class while_1 {   // seu usa o while para constagens identerminadas, colocando condição para sair do loop por ex.
     public static void main(String[] args) {
 
         int contador = 1;
